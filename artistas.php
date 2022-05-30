@@ -18,7 +18,7 @@ include 'header.php'
             </a>
           </li>
           <li>
-            <a href="rex_orange.php" title="">
+            <a href="rex.php" title="">
               <img src="./img/rex_county.jpeg" width="" height="" />
             </a>
           </li>
